@@ -1,0 +1,12 @@
+#input-container {
+    position:relative;
+
+}
+
+#input-img {
+    position:absolute;
+    bottom:8px;
+    right:1px;
+    width:35px;
+    height:25px;
+}

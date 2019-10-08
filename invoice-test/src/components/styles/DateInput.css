@@ -1,0 +1,11 @@
+#input-container {
+    position:relative;
+}
+
+#input-img {
+    position:absolute;
+    bottom:8px;
+    right:1px;
+    width:29px;
+    height:23px;
+}

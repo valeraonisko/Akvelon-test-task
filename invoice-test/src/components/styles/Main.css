@@ -1,0 +1,12 @@
+main {
+  background-color: #f1f3f6;
+  margin-top: 0;
+}
+
+footer {
+  min-height: 60px;
+}
+
+#root {
+  background-color: #f1f3f6;
+}

@@ -1,0 +1,59 @@
+.frame {
+  border: 2px solid #f1f3f6;
+}
+.new_invoice {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+.wrapper {
+  padding: 30px;
+}
+
+.border {
+  padding: 30px 20px 20px 30px;
+}
+.new_invoice tbody tr {
+  background-color: white
+}
+
+.right-align {
+  text-align: right;
+}
+
+.input-group {
+  padding: 15px 0px 15px 10px;
+}
+
+.input-group div {
+  padding: 10px 20px 0px 0px;
+  /* padding-right: 20px; */
+}
+
+label {
+  color: black;
+  padding: 0px;
+}
+
+.date {
+  padding-top: 9px;
+  padding-bottom: 9px;
+}
+
+input, textarea {
+  width: 100%;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid #f1f3f6;
+}
+
+
+.tool-pane {
+  padding-top: 30px;
+}
+
+.save {
+  margin-bottom: 0px;
+}

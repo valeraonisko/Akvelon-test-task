@@ -1,0 +1,12 @@
+header {
+  background-color: #f1f3f6;
+}
+
+header h2 {
+  font-size: 20px;
+  margin-left: 60px;
+  color: #A9A9A9;
+  line-height: 30px;
+  margin-top: auto;
+  padding-top: 20px;
+}
